@@ -1,0 +1,30 @@
+$blue: #a3d5d3;
+
+body {
+  background-color: $blue;
+  background-image: url("Victoria-Falls.jpg");
+}
+h1 {
+  color: #000;
+  text-align: center;
+  font-size: 100px;
+  font-family: verdana;
+}
+p {
+  font-family: courier;
+  font-size: 20px;
+  text-align: center;
+}
+.center {
+  color: #000;
+  text-align: center;
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+     
+  
